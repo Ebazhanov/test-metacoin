@@ -1,0 +1,30 @@
+{
+  "name": "webpack-build-for-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebazhanov/webpack-build-for-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebazhanov/webpack-build-for-web/issues"
+  },
+  "homepage": "https://github.com/Ebazhanov/webpack-build-for-web#readme",
+  "devDependencies": {
+    "create-html": "^4.1.0",
+    "remove-webpack-plugin": "^1.2.2",
+    "truffle": "^5.0.8"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "jquery": "^3.4.1",
+    "truffle-contract": "^4.0.15",
+    "web3": "^1.0.0-beta.37"
+  }
+}
